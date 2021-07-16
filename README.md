@@ -1,8 +1,8 @@
-# React Seasons
+# React Videos
 
 ## What is this?
 
-This is simple project I made with CRA to practice React concepts. It uses the Geolocation API to fetch the user's location and determine with the current month if the user is in Winter or Summer season.
+This is simple project I made with CRA to practice React concepts. It uses the Youtube API to fetch videos based on search query and displays a list and a Video Player on the screen.
 
 Based on lectures from Stephen Grider's React course.
 
